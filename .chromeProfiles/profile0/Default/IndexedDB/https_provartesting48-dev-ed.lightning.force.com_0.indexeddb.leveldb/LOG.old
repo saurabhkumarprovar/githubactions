@@ -1,0 +1,6 @@
+2022/04/11-14:24:47.402 d9c Creating DB C:\Users\saurabh.kumar\Provar\githubactionsprac\.chromeProfiles\profile0\Default\IndexedDB\https_provartesting48-dev-ed.lightning.force.com_0.indexeddb.leveldb since it was missing.
+2022/04/11-14:24:47.408 d9c Reusing MANIFEST C:\Users\saurabh.kumar\Provar\githubactionsprac\.chromeProfiles\profile0\Default\IndexedDB\https_provartesting48-dev-ed.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/11-14:24:51.387 36c8 Level-0 table #5: started
+2022/04/11-14:24:51.391 36c8 Level-0 table #5: 10813 bytes OK
+2022/04/11-14:24:51.394 36c8 Delete type=0 #3
+2022/04/11-14:24:51.394 36c8 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
