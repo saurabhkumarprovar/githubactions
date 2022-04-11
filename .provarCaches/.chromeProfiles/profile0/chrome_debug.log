@@ -1,0 +1,12 @@
+[4896:16028:0411/142748.293:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[4896:16028:0411/142748.298:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[4896:16028:0411/142748.401:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[4896:16028:0411/142751.587:ERROR:device_event_log_impl.cc(214)] [14:27:51.586] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[4896:16028:0411/142751.588:ERROR:device_event_log_impl.cc(214)] [14:27:51.587] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[4896:16028:0411/142756.323:WARNING:controller_impl.cc(1184)] Background download complete, client: 6, completion type: 0, file size:265060
+[4896:10636:0411/142848.526:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+[4896:16028:0411/142935.830:INFO:CONSOLE(1)] "Failed to retrive resource /wbin/www-core/f/g", source: https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-commonlyUsed-js.bundle.a8127bc893e442381ca0.js (1)
+[4896:16028:0411/143009.742:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+[4896:16028:0411/143019.631:INFO:CONSOLE(4)] "empApi setting initialized true for : undefined", source: https://provartesting48-dev-ed.lightning.force.com/components/force/empApi.js (4)
+[4896:16028:0411/143023.694:INFO:CONSOLE(1)] "Failed to retrive resource /wbin/www-core/f/g", source: https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-commonlyUsed-js.bundle.a8127bc893e442381ca0.js (1)
+[4896:16028:0411/143024.410:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
